@@ -1,4 +1,4 @@
 hello git!
 hello again
 change 1
-
+new line 1
