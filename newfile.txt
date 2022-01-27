@@ -1,4 +1,5 @@
 hello git!
 hello again
 change 1
-feature added
+feature new line added
+
